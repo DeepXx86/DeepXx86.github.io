@@ -3,9 +3,9 @@ import { useWired } from '../../context/WiredContext';
 import { motion } from 'framer-motion';
 
 const links = [
-    { label: 'GitHub', url: 'https://github.com' },
+    { label: 'GitHub', url: 'https://github.com/DeepXx86' },
     { label: 'Discord', url: 'https://discord.com' },
-    { label: 'YouTube', url: 'https://youtube.com' },
+    { label: 'YouTube', url: 'https://www.youtube.com/@Pascal_XZ' },
 ];
 
 const SignalNode: React.FC = () => {
